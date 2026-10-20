@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "importtime-waterfall",
+  "versions": [
+    {
+      "commit": "dbe92da0660592b6d12a49fee4da41c48d61308f",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:31:11.913854+00:00"
+    }
+  ]
+}
