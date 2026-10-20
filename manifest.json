@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "importtime-waterfall",
+  "versions": [
+    {
+      "commit": "dbe92da0660592b6d12a49fee4da41c48d61308f",
+      "parsed_at": "2026-10-20T11:29:05.732043+00:00",
+      "filetree": "filetree/dbe92da0660592b6d12a49fee4da41c48d61308f.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6a581d61107450a11a858edb40a654fcf8a19afb.nq.gz",
+        "blob/29d09f8b97b7cf08f6022d37e64a89ce88f1e8de.nq.gz",
+        "blob/c7073597394899039ddc7ff7d54642b40547cc23.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/43f3bfe16306a0af7ebe1544cc5c050f492c9a1b.nq.gz",
+        "blob/b7af5ef213084fe100c5bb755659ef68c14dae5b.nq.gz",
+        "blob/ec3b537984ef3420b5d1002f4525306cc7d46a1b.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz",
+        "blob/3fdffa121e3b0e62264cdf10bc360c93537670b7.nq.gz",
+        "blob/e99a9ab7e2bfdf95f909c767afe01c341866deb5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
