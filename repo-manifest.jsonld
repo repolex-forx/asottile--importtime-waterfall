@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/importtime-waterfall/commit/dbe92da0660592b6d12a49fee4da41c48d61308f",
       "git:hexsha": "dbe92da0660592b6d12a49fee4da41c48d61308f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/importtime-waterfall/commit/eaef96015005ac2fc57d606813610ced5206f826",
